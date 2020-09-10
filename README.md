@@ -2,7 +2,7 @@ SETUP:
 - for Windows : if not present, install nodejs from https://nodejs.org/en/download/
 	- run the tests
 	
-- for Ubuntu : if not present, install nodejs from https://nodejs.org/en/download/ or :
+- for Ubuntu : if not present, install nodejs from https://nodejs.org/en/download/ or
 		- sudo apt update
 		- sudo apt install nodejs
 		- nodejs -v (to check the installation was ok)
